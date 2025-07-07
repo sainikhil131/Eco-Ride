@@ -97,7 +97,7 @@ EcoRide/
 ├── screenshots/
 │   ├── login_screen.png
 │   ├── maps_screen.png
-│   └── payment_screen.png
+│   └── Publish_ride.png
 ```
 
 ---
