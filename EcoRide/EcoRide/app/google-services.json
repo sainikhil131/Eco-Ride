@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "960242190224",
+    "project_id": "ecoride-b296e",
+    "storage_bucket": "ecoride-b296e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960242190224:android:bc5d2f67b6b4c36ffa1515",
+        "android_client_info": {
+          "package_name": "com.example.ecoride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960242190224-gpkn425h8ep056b9e5o38imtkdjt17mk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecoride",
+            "certificate_hash": "604fda2aef0aea378651985c25ff4ba7041ee301"
+          }
+        },
+        {
+          "client_id": "960242190224-gt6unnr8644mq8c1hjbnhg3hoeehtaak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByjKquUvLPrvFb0QYE7dpePXEtxIFPG7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960242190224-gt6unnr8644mq8c1hjbnhg3hoeehtaak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
