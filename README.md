@@ -39,7 +39,7 @@ Built using **Jetpack Compose** for a smooth and dynamic UI experience and power
 _Add your app screenshots in the `/screenshots` folder and reference them here:_
 
 > Example:  
-> ![Login Screen](./screenshots/login_screen.png)  
+> ![Login Screen]([./screenshots/login_screen.png](https://github.com/sainikhil131/Eco-Ride/blob/main/01.jpg))  
 > ![Ride Finder](./screenshots/maps_screen.png)  
 > ![Payment Page](./screenshots/payment_screen.png)
 
