@@ -1,8 +1,4 @@
-Great! Here's your updated and finalized `README.md` file with the new details:
 
----
-
-````markdown
 # 🚲 Eco Ride
 
 **Eco Ride** is a sustainable and intelligent ride-hailing app designed with modern Android technologies. It enables users to securely log in, locate rides via Google Maps, make payments through Razorpay, and ensures driver authenticity through a document verification process.
