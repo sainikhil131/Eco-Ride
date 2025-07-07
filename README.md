@@ -40,7 +40,7 @@ _Add your app screenshots in the `/screenshots` folder and reference them here:_
 
 > Example:  
 > ![Login Screen](https://github.com/sainikhil131/Eco-Ride/blob/5139abe9f494ea9ea59418f9482957fce58dac47/01.jpg)  
-> ![Ride Finder](./screenshots/maps_screen.png)  
+> ![Ride Finder](https://github.com/sainikhil131/Eco-Ride/blob/58a5f3a345fdc0668d3996ffd3a4ae64db376bb5/03.jpg)  
 > ![Payment Page](./screenshots/payment_screen.png)
 
 ---
