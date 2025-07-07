@@ -126,7 +126,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Ginjupally Sainikhil**
 📍 Hyderabad, India
-📧 [your.email@example.com](7396338783)
+📧 [ginjupallysainikhil@gmail.com](7396338783)
 🔗 [LinkedIn](https://www.linkedin.com/in/ginjupallysainikhil/)
 
 
